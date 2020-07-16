@@ -1,6 +1,6 @@
 {
-    "name": "Zion VEM",
-    "short_name": "ZionVEM",
+    "name": "Bryce VEM",
+    "short_name": "BryceVEM",
     "start_url": ".",
     "display": "standalone",
     "orientation": "portrait-primary",
